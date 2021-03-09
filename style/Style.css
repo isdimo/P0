@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Akaya Telivigala';
+    src: url('AkayaTelivigala-Regular.eot');
+    src: url('AkayaTelivigala-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AkayaTelivigala-Regular.woff2') format('woff2'),
+        url('AkayaTelivigala-Regular.woff') format('woff'),
+        url('AkayaTelivigala-Regular.ttf') format('truetype'),
+        url('AkayaTelivigala-Regular.svg#AkayaTelivigala-Regular') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+ body{
+ background: white;   
+}
+nav{
+           right: 20px;
+                position: absolute;
+                background-color: antiquewhite;
+       }
+       p{
+           height: 20%;
+}
+h2 {font-family: 'Akaya Telivigala';
+}
+  footer{
+           
+       }
+       }
+       p{
+           margin: 0 0 10px
+       }
+       main{ 
+           font-family: 'Piazzolla', serif;
+           font-weight: 700;
+           font-style: italic;
+       }
+       Section. first-child p: nth-child(2) {
+           background: red
+               
+       }
+       img{
+           width:50%;
+           height: auto;  
+           
+@media (max-width: 600px) {
+    body{
+ background: red;   
+}
